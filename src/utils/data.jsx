@@ -63,7 +63,7 @@ export const projects = [
       des: "This is a complete Mobile Responsive Website build to master the creation of Modern UX/UI Websites Design.",
       span: "Tech Stack :",
       stack:  "HTML, CSS, JavaScript, ReactJS, Redux Toolkit and Rest API",
-      url: "#",
+      url: "https://netflix-f197d.web.app",
       github: "https://github.com/Ashish357/Netflix-UI",
     },
     {
