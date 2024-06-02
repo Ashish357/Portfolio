@@ -11,7 +11,7 @@ const About = () => {
         </div>
         <div className='w-full sm:w-1/2 flex flex-col items-center sm:items-start'>
             <div><h1 className='text-2xl font-semibold text-center sm:text-left'>Hi, my name is</h1>
-            <h3 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-center sm:text-left">Ashish Saha</h3>
+            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-center sm:text-left">Ashish Saha</h1>
             <p className="font-semibold text-xl sm:text-2xl lg:text-3xl text-center sm:text-left" id="animatedText">
         I'm a <span  className="text-red-600 font-bold">Full Stack Developer.</span>
       </p>
