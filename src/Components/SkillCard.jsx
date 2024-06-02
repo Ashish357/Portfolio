@@ -12,7 +12,7 @@ const SkillCard = ({ name, img }) => {
       } skillCard `}
     data-aos="zoom-in"
     >
-      <img src={img} width="100%" />
+      <img src={img} alt={name} width="100%" />
       <p className="text-center mt-1 font-semibold">{name}</p>
     </div>
   );
